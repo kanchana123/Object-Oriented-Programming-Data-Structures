@@ -1,5 +1,4 @@
 // Kanchan Nannavare
-// CSC-152 - HW4
 // Complex numbers and equation solutions
 
 #include <iostream>     // for cin, cout
