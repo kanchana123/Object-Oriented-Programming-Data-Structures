@@ -1,5 +1,4 @@
 // Kanchan Nannavare
-// Written on December 02, 2015
 // Heap tree
 
 #include <iostream>
