@@ -1,9 +1,7 @@
 // Kanchan Nannavare
-// Written on November 16, 2015
 // Class Queue using array
 
 #include <iostream>
-
 using namespace std;
 
 /////////////////
