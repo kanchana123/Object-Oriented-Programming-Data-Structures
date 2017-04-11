@@ -1,5 +1,4 @@
 // Kanchan Nannavare
-// Written on December 3, 2015
 // Hashtable - polynomial hash code
 
 #include <iostream>
