@@ -1,9 +1,7 @@
 // Kanchan Nannavare
 // Stack class using linkedlist
-// Written on November 10, 2015
 
 #include <iostream>
-
 using namespace std;
 
 ////////////////
