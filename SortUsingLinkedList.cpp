@@ -1,5 +1,4 @@
-// Kanchan Nannavare - CSC 152
-// Written on November 12, 2015
+// Kanchan Nannavare
 // Sorted list
 
 /* C++ class that uses a linked list to maintain a sorted (alphabetically) list of strings.  */
