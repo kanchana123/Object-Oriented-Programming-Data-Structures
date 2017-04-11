@@ -1,5 +1,4 @@
 // Kanchan Nannavare
-// Written on November 25, 2015
 // Binary search tree without recursion
 
 #include <iostream>
